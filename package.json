@@ -1,0 +1,34 @@
+{
+  "name": "scroll-based-animation",
+  "version": "1.0.0",
+  "description": "Scroll animation example from Three.js Journey made with react-three-fiber",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@mui/material": "5.11.1",
+    "@react-spring/three": "9.3.0",
+    "@react-three/drei": "7.20.2",
+    "@react-three/fiber": "7.0.18",
+    "@types/three": "0.132.0",
+    "leva": "0.9.14",
+    "nice-color-palettes": "3.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "react-use-refs": "1.0.0",
+    "three": "0.132.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
